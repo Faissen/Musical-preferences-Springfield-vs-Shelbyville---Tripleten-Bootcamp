@@ -1,5 +1,6 @@
-# Musical preferences Springfield vs Shelbyville - Tripleten Bootcamp
+# Musical preferences Springfield vs Shelbyville
 Project goal:
+
 The objective of this project is to compare the musical preferences of users from Springfield and Shelbyville. Using data from an online music‑streaming service, the analysis evaluates whether the two cities differ in:
 * Preferred music genres
 * Preferred days of the week for listening
