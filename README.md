@@ -98,8 +98,8 @@ Open the Jupyter Notebook and Run the notebook cells in order to reproduce the a
 
 Visual Summary
 * Genre Preferences
-[![Genre Plot](images/genre_plot.png)](https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/commit/7bf8bb5b340b6ed92a3bdb08fd89a5c2b522b970#r173553979)
+https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/blob/main/plots/genre_plot.png
 * Day Preferences
-![Day Plot](images/day_plot.png)
+https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/blob/main/plots/day_plot.png
 * Hour Preferences
-![Hour Plot](images/hour_plot.png)
+https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/blob/main/plots/hour_plot.png
