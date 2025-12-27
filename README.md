@@ -8,22 +8,23 @@ The objective of this project is to compare the musical preferences of users fro
 The project tests predefined hypotheses and explores user behavior patterns across both cities.
 
 Results:
+
 The analysis revealed several key insights:
 
 1. Genre Preferences
 Both cities share the same top three genres—pop, dance, and rock—although the order of preference differs slightly. Overall, the musical taste profile is very similar across the two populations.
 
 2. Day Preferences
-Listening behavior varies by city:
+Listening behavior varies by city with distinct weekly engagement patterns:
 * Springfield shows a clear peak on Fridays
 * Shelbyville reaches its highest activity on Wednesdays
 
-This indicates distinct weekly engagement patterns.
-
 3. Hour Preferences
+
 The peak listening hours in both cities are 20:00, 14:00, and 13:00, though the ranking differs. These hours consistently show the highest user activity.
 
 4. Overall Listening Volume
+
 Springfield users listen to music more than twice as much as Shelbyville users.
 Possible explanations include population differences or the use of alternative music platforms, but the current dataset does not allow a definitive conclusion.
 
@@ -35,7 +36,8 @@ Tools used:
 * Jupyter Notebook
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-What I learned (skills/competencies acquired)
+Skills/competencies acquired
+
 Throughout this project, I strengthened several key data‑analysis skills:
 * Cleaning, transforming, and aggregating datasets using pandas
 * Creating visualizations with Matplotlib and Seaborn
@@ -45,13 +47,13 @@ Throughout this project, I strengthened several key data‑analysis skills:
 * Communicating findings clearly through plots and narrative explanations
 
 Areas for improvement
+
 Future enhancements could include:
 * Incorporating statistical significance testing (e.g., chi‑square, t‑tests)
 * Adding more granular data, such as user demographics or subscription type
 * Improving visualizations with interactive dashboards (Plotly, Tableau, Power BI)
 * Automating parts of the analysis with reusable functions
 
-Extras: Include a project description, methodology, and instructions on how to run the project.
 
 The dataset includes:
 * User IDs
@@ -63,7 +65,8 @@ Methodology:
 1. Data Loading & Inspection
 * Import CSV files
 * Check for missing values, duplicates, and data types
-* Data Cleaning
+
+2. Data Cleaning
 * Remove duplicates
 * Convert timestamps to datetime
 * Extract hour and day of week
@@ -83,13 +86,16 @@ Methodology:
 * Summarize findings and business implications
 
 How to Run the Project?
+
 Clone the repository: git clone https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp
 
 Navigate into the project folder: cd Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp
+
 Install required libraries: pip install -r requirements.txt
+
 Open the Jupyter Notebook and Run the notebook cells in order to reproduce the analysis.
 
 Visual Summary
-* Genre Preferences
-* Day Preferences
-* Hour Preferences
+* Genre Preferences (images/genre_plot.png)
+* Day Preferences (images/day_plot.png)
+* Hour Preferences (images/hour_plot.png)
