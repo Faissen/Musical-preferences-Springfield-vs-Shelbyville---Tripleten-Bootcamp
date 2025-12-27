@@ -97,6 +97,9 @@ Install required libraries: pip install -r requirements.txt
 Open the Jupyter Notebook and Run the notebook cells in order to reproduce the analysis.
 
 Visual Summary
-* Genre Preferences (images/genre_plot.png)
-* Day Preferences (images/day_plot.png)
-* Hour Preferences (images/hour_plot.png)
+* Genre Preferences
+![Genre Plot](images/genre_plot.png)
+* Day Preferences
+![Day Plot](images/day_plot.png)
+* Hour Preferences
+![Hour Plot](images/hour_plot.png)
