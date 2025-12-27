@@ -35,7 +35,7 @@ Possible explanations include population differences or the use of alternative m
 
 Tools used:
 * Jupyter Notebook
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas, Matplotlib, Seaborn)
 
 Skills/competencies acquired
 
