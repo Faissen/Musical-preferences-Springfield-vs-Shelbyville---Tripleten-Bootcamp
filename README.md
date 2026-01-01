@@ -52,9 +52,9 @@ Areas for improvement
 Future enhancements could include:
 * Incorporating statistical significance testing (e.g., chi‑square, t‑tests)
 * Adding more granular data, such as user demographics or subscription type
-* Improving visualizations with interactive dashboards (Plotly, Tableau, Power BI)
 * Automating parts of the analysis with reusable functions
-
+* Improving visualizations with interactive dashboards (Plotly, Tableau, Power BI)
+  Added Power BI visualization to compare with python plots and make it available for everyone to check.
 
 The dataset includes:
 * User IDs
@@ -103,3 +103,5 @@ https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Trip
 https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/blob/main/plots/day_plot.png
 * Hour Preferences
 https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/blob/main/plots/hour_plot.png
+* Power BI Dashboard print
+https://github.com/Faissen/Musical-preferences-Springfield-vs-Shelbyville---Tripleten-Bootcamp/blob/main/power_bi/Dashboard.JPG
